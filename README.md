@@ -1,2 +1,2 @@
 # telugu
-telugu learninghub.com
+telugu repo
